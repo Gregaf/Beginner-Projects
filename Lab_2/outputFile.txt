@@ -1,0 +1,5 @@
+Name: Muhammad
+Assignment: 10
+Quiz: 12 10
+Final Exam: 45
+Total: 77
